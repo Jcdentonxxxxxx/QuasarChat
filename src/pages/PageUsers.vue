@@ -10,6 +10,7 @@
         class="q-my-sm"
         clickable
         v-ripple
+        to="/chat"
       >
         <q-item-section avatar>
           <q-avatar color="primary" text-color="white">
